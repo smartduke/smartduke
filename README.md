@@ -17,7 +17,7 @@ SmartDuke Technologies is a cutting-edge company specializing in AI, web develop
 - 🌐 **Website**: [www.smartduke.com](https://www.smartduke.com)
 - ✉️ **Email**: dinakar@smartduke.com
 - 🔗 **Social Media**:
-  - Twitter: [@smartduke_tech](https://twitter.com/smartduke_tech)
+  - Twitter: [@smartduke-technologies](https://www.linkedin.com/company/smartduke-technologies/)
   - Instagram: [@smartduke_technologies](https://www.instagram.com/smartduke_technologies/)
 
 ## 😄 Fun Fact
