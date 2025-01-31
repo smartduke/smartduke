@@ -19,6 +19,7 @@ SmartDuke Technologies is a cutting-edge company specializing in AI, web develop
 - 🔗 **Social Media**:
   - LinkedIn: [@smartduke-technologies](https://www.linkedin.com/company/smartduke-technologies/)
   - Instagram: [@smartduke_technologies](https://www.instagram.com/smartduke_technologies/)
+  - GitHub: [Your GitHub Profile](https://github.com/smartduke)  
 
 ## 😄 Fun Fact
 We believe in **leveraging AI to make life easier**—whether it's through intelligent chatbots, automated workflows, or AI-driven content creation.
